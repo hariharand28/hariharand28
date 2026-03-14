@@ -70,13 +70,18 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 
 <br/><br/>
 
-![C++](https://img.shields.io/badge/Language-C%2B%2B-C9A227?style=flat-square&logo=cplusplus&logoColor=ffffff&labelColor=1c1800)
-![Chennai](https://img.shields.io/badge/📍-Chennai%2C%20India-C9A227?style=flat-square&labelColor=1c1800)
-![Student](https://img.shields.io/badge/🎓-CS%20Student-C9A227?style=flat-square&labelColor=1c1800)
+![Name](https://img.shields.io/badge/Hariharan%20D-CS%20Student-ffffff?style=for-the-badge&labelColor=C9A227&color=1c1800)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=320&height=80&lines=Competitive+Programmer+%F0%9F%8F%86;DSA+%26+Algorithm+Expert+%F0%9F%94%8D;Always+Learning%2C+Always+Building+%F0%9F%9A%80;Open+to+Collaborations+%E2%9C%A6)](https://git.io/typing-svg)
+![Location](https://img.shields.io/badge/📍%20Chennai-India-ffffff?style=flat-square&labelColor=1c1800&color=1c1800)
+![Focus](https://img.shields.io/badge/⚡%20C%2B%2B%20%7C%20DSA%20%7C%20AI-ffffff?style=flat-square&labelColor=1c1800&color=1c1800)
+
+<br/>
+
+![CP](https://img.shields.io/badge/🏆%20Competitive-Programmer-ffffff?style=flat-square&labelColor=C9A227&color=C9A227)
+![Build](https://img.shields.io/badge/🚀%20Always-Building-ffffff?style=flat-square&labelColor=A07D20&color=A07D20)
+![Learn](https://img.shields.io/badge/💡%20Always-Learning-ffffff?style=flat-square&labelColor=C9A227&color=C9A227)
 
 <br/>
 
