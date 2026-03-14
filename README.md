@@ -1,56 +1,79 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    HARIHARAN · GITHUB PROFILE                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                 HARIHARAN D  ·  GITHUB PROFILE README                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hariharan&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a0aec0&animation=fadeIn" width="100%"/>
+<!-- ░░ ANIMATED HEADER BANNER ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=220&section=header&text=Hariharan%20D&fontSize=68&fontColor=E2E8F0&fontAlignY=38&desc=CS%20Student%20·%20Competitive%20Programmer%20·%20Builder&descAlignY=60&descSize=17&descColor=7F9CF5&animation=fadeIn&fontAlign=50" width="100%"/>
+
+<br/>
+
+<!-- ░░ TYPING ANIMATION ░░ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7F9CF5&center=true&vCenter=true&width=600&height=45&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;I+craft+solutions+with+C%2B%2B+%F0%9F%94%A5;Competitive+Programmer+%F0%9F%8F%86;DSA+%26+Algorithm+Explorer+%F0%9F%94%8D;Aspiring+Software+Engineer+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ░░ PROFILE BADGES ░░ -->
+![Profile Views](https://komarev.com/ghpvc/?username=hariharand28&style=flat-square&color=7F9CF5&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/hariharand28?style=flat-square&color=7F9CF5&labelColor=0d1117&logo=github&label=Followers)](https://github.com/hariharand28)
+![Open Source](https://img.shields.io/badge/Open%20Source-❤-7F9CF5?style=flat-square&labelColor=0d1117)
 
 </div>
 
----
-
 <br/>
 
-<!-- INTRODUCTION SECTION -->
+<!-- ════════════════════════════════════════════════ -->
+<!--                  INTRODUCTION                   -->
+<!-- ════════════════════════════════════════════════ -->
+
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
 <br/>
 
-### `> whoami`
+## `{ whoami }`
 
 ```yaml
-name       : Hariharan
-role       : Computer Science Student
-location   : Chennai, India  🇮🇳
-focus      : C++ · DSA · Competitive Programming
-passion    : Building elegant solutions to hard problems
-status     : Currently leveling up in AI & Software Dev
+┌──────────────────────────────────────────┐
+│                                          │
+│  name       :  Hariharan D               │
+│  role       :  Computer Science Student  │
+│  location   :  Chennai, India  🇮🇳        │
+│  primary    :  C++ · DSA · Algorithms    │
+│  interests  :  AI · Competitive Prog.    │
+│               Software Development       │
+│  status     :  Building & Learning 🚀    │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
 <br/>
 
-I'm a CS student from Chennai with a deep obsession for **elegant code and complex problems**. My world revolves around competitive programming, crafting efficient algorithms, and exploring the intersection of theory and real-world software.
+I'm a CS student from **Chennai** with a deep focus on writing **clean, efficient code** and solving challenging algorithmic problems. I thrive at the intersection of theory and practice — from mastering data structures to building real-world software.
 
-I believe that **great code is not just correct — it's clear, fast, and beautiful.**
+My philosophy: **think deeply, build boldly, and never stop learning.**
 
 <br/>
 
 </td>
-<td width="38%" align="center" valign="top">
+<td width="40%" align="center" valign="middle">
 
 <br/><br/>
 
-<img src="https://github.com/hariharan/hariharan/raw/main/profile.jpeg" width="200" style="border-radius: 50%;"/>
+<img src="https://github.com/hariharand28/hariharand28/blob/main/profile.png?raw=true" width="185"/>
 
-> *(Replace the image src above with your actual GitHub raw image URL after uploading your photo to your profile repo)*
+<br/><br/>
+
+```
+  📍  Chennai, India
+  🎓  CS Student
+  💡  Always Learning
+  🏆  Problem Solver
+```
 
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=6C8EBF&center=true&vCenter=true&width=280&lines=C%2B%2B+Enthusiast+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%8F%86;DSA+Explorer+%F0%9F%94%8D;AI+%26+ML+Curious+%F0%9F%A4%96;Open+Source+Learner+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 </td>
 </tr>
@@ -58,86 +81,113 @@ I believe that **great code is not just correct — it's clear, fast, and beauti
 
 <br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
 <br/>
 
-<!-- SKILLS SECTION -->
+<!-- ════════════════════════════════════════════════ -->
+<!--               SKILLS & TECH STACK               -->
+<!-- ════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### ⟨ Skills & Technologies ⟩
+## ⚡ Tech Stack & Skills
 
 <br/>
 
-**Languages**
+### 🖥️ Languages
+
+<br/>
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 <br/>
 
-**Core CS Concepts**
-
-![Data Structures](https://img.shields.io/badge/Data%20Structures-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116)
-![Algorithms](https://img.shields.io/badge/Algorithms-302b63?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)
-![Competitive Programming](https://img.shields.io/badge/Competitive%20Programming-24243e?style=for-the-badge&logo=codechef&logoColor=5B4638)
-![OOP](https://img.shields.io/badge/OOP-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+### 🧠 Core CS Fundamentals
 
 <br/>
 
-**Tools & Platforms**
+![Data Structures](https://img.shields.io/badge/Data%20Structures-%230f3460?style=for-the-badge&logo=leetcode&logoColor=FFA116)
+![Algorithms](https://img.shields.io/badge/Algorithms-%2316213e?style=for-the-badge&logo=codeforces&logoColor=7F9CF5)
+![Competitive Programming](https://img.shields.io/badge/Competitive%20Prog-%230d1117?style=for-the-badge&logo=codechef&logoColor=5B4638)
+![OOP](https://img.shields.io/badge/OOP-%230f3460?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-%2316213e?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+
+<br/>
+
+### 🛠️ Tools & Environment
+
+<br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br/>
 
-**Competitive Platforms**
+### 🏅 Competitive Platforms
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hariharan2888/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
 
 </div>
 
 <br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
 <br/>
 
-<!-- GITHUB STATS -->
+<!-- ════════════════════════════════════════════════ -->
+<!--               GITHUB STATISTICS                 -->
+<!-- ════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C8EBF&icon_color=6C8EBF&text_color=c9d1d9&ring_color=6C8EBF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C8EBF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariharand28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7F9CF5&icon_color=7F9CF5&text_color=c9d1d9&ring_color=7F9CF5" alt="Hariharan's GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharand28&layout=compact&hide_border=true&bg_color=0d1117&title_color=7F9CF5&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6C8EBF&fire=6C8EBF&currStreakLabel=6C8EBF&sideLabels=c9d1d9&dates=8b949e&stroke=0d1117&currStreakNum=ffffff&sideNums=ffffff" height="180em"/>
-
-> *(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in all stat URLs)*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hariharand28&theme=tokyonight&hide_border=true&background=0d1117&ring=7F9CF5&fire=7F9CF5&currStreakLabel=7F9CF5&sideLabels=c9d1d9&dates=8b949e&stroke=0d1117&currStreakNum=ffffff&sideNums=ffffff" height="180em" alt="GitHub Streak"/>
 
 </div>
 
 <br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
 <br/>
 
-<!-- PROJECTS SECTION -->
+<!-- ════════════════════════════════════════════════ -->
+<!--               FEATURED PROJECTS                 -->
+<!-- ════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 🛠 Featured Projects
+## 🚀 Featured Projects
+
+*Crafting solutions — one commit at a time.*
 
 </div>
 
@@ -147,60 +197,59 @@ I believe that **great code is not just correct — it's clear, fast, and beauti
 <tr>
 <td width="50%" valign="top">
 
-**🔷 Project One**
-```
-[ Placeholder — Add your project here ]
-```
-`C++` `Algorithms` `Data Structures`
+### 🔹 Project Alpha
+> *[ Your project title here ]*
 
-> A brief one-line description of what this project does and the problem it solves.
+A brief but impactful description of what this project does and the real-world problem it addresses. Built with efficiency in mind.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+**Stack:** `C++` · `Algorithms` · `Data Structures`
+
+[![View Repo](https://img.shields.io/badge/View%20on%20GitHub-%230d1117?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-7F9CF5?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
 
-**🔷 Project Two**
-```
-[ Placeholder — Add your project here ]
-```
-`Python` `AI/ML` `Problem Solving`
+### 🔹 Project Beta
+> *[ Your project title here ]*
 
-> A brief one-line description of what this project does and the problem it solves.
+A brief but impactful description of what this project does and the real-world problem it addresses. Clean architecture, clean code.
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+**Stack:** `JavaScript` · `Node.js` · `HTML/CSS`
+
+[![View Repo](https://img.shields.io/badge/View%20on%20GitHub-%230d1117?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-7F9CF5?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </td>
 </tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<br/>
+### 🔹 Project Gamma
+> *[ Your project title here ]*
 
-**🔷 Project Three**
-```
-[ Placeholder — Add your project here ]
-```
-`C++` `Competitive Programming`
+A brief but impactful description of what this project does and the real-world problem it addresses. Designed for performance and clarity.
 
-> A brief one-line description of what this project does and the problem it solves.
+**Stack:** `C++` · `Competitive Programming` · `STL`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View%20on%20GitHub-%230d1117?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-7F9CF5?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </td>
 <td width="50%" valign="top">
 
-<br/>
+### 🔹 Project Delta
+> *[ Your project title here ]*
 
-**🔷 Project Four**
-```
-[ Placeholder — Add your project here ]
-```
-`Software Development` `Systems`
+A brief but impactful description of what this project does and the real-world problem it addresses. Built to scale and built to last.
 
-> A brief one-line description of what this project does and the problem it solves.
+**Stack:** `AI/ML` · `Software Development` · `Systems`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![View Repo](https://img.shields.io/badge/View%20on%20GitHub-%230d1117?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-7F9CF5?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </td>
 </tr>
@@ -208,58 +257,100 @@ I believe that **great code is not just correct — it's clear, fast, and beauti
 
 <br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
 <br/>
 
-<!-- CURRENTLY LEARNING -->
+<!-- ════════════════════════════════════════════════ -->
+<!--              CURRENTLY LEARNING                 -->
+<!-- ════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
 </div>
 
 <br/>
 
 ```cpp
-std::vector<std::string> currentlyLearning = {
-    "Advanced Graph Algorithms  →  Dijkstra, Bellman-Ford, Floyd-Warshall",
-    "Dynamic Programming        →  Memoization, Tabulation, Optimization",
-    "Machine Learning Basics    →  Supervised Learning, Neural Networks",
-    "System Design Fundamentals →  Scalability, Databases, Architecture",
-    "Competitive Programming    →  Codeforces Div. 2 & 3 Problems"
-};
+// hariharand28 · 2025 · learning_log.cpp
 
-// Goal: Become a well-rounded engineer who thinks deeply and builds boldly.
+#include <vector>
+#include <string>
+
+class HariharanD {
+public:
+    std::string name     = "Hariharan D";
+    std::string location = "Chennai, India";
+    std::string role     = "CS Student & Aspiring Engineer";
+
+    std::vector<std::string> currentlyLearning = {
+        "⚙️  Advanced Graph Algorithms   →  Dijkstra, Bellman-Ford, Floyd-Warshall",
+        "🧮  Dynamic Programming         →  Memoization, Tabulation, Optimization",
+        "🤖  Machine Learning Basics     →  Supervised Learning, Neural Networks",
+        "🏗️  System Design               →  Scalability, Databases, Architecture",
+        "🌐  Web Development             →  Node.js, REST APIs, Backend Systems",
+        "🏆  Competitive Programming     →  Codeforces & LeetCode Problem Solving"
+    };
+
+    std::string currentGoal = "Become a well-rounded engineer who thinks deeply and builds boldly.";
+};
 ```
 
 <br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
 <br/>
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- ════════════════════════════════════════════════ -->
+<!--             CONTRIBUTION GRAPH                  -->
+<!-- ════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 🌐 Contribution Activity
+## 🌐 Contribution Activity
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0d1117&color=6C8EBF&line=6C8EBF&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariharand28&theme=react-dark&bg_color=0d1117&color=7F9CF5&line=7F9CF5&point=ffffff&area=true&area_color=7F9CF5&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+<br/>
+
+### 🐍 Watch My Contributions Get Devoured
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hariharand28/hariharand28/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hariharand28/hariharand28/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hariharand28/hariharand28/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+> 💡 *Enable the snake: Repo → Actions → New workflow → use `Platane/snk` action to auto-generate the SVG on a schedule.*
 
 </div>
 
 <br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
 <br/>
 
-<!-- ABOUT ME EXTRAS -->
+<!-- ════════════════════════════════════════════════ -->
+<!--               ABOUT ME — PILLARS                -->
+<!-- ════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 💡 A Bit More About Me
+## 💡 What Drives Me
 
 </div>
 
@@ -267,70 +358,80 @@ std::vector<std::string> currentlyLearning = {
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
-
-🏆 **Competitive**
+<td align="center" width="24%">
 <br/>
-I grind algorithmic problems because I love the mental challenge.
-
+<b>🏆&nbsp; Competitive</b>
+<br/><br/>
+Algorithmic challenges sharpen my thinking. I grind because I genuinely love the process.
+<br/><br/>
 </td>
-<td align="center" width="25%">
-
-🧠 **Curious**
+<td align="center" width="1%">│</td>
+<td align="center" width="24%">
 <br/>
-AI and emerging tech fascinate me — I'm always reading and learning.
-
+<b>🧠&nbsp; Curious</b>
+<br/><br/>
+From AI to systems design — I read, explore, and question everything around me.
+<br/><br/>
 </td>
-<td align="center" width="25%">
-
-🔨 **Builder**
+<td align="center" width="1%">│</td>
+<td align="center" width="24%">
 <br/>
-I don't just learn concepts — I build things to solidify my understanding.
-
+<b>🔨&nbsp; Builder</b>
+<br/><br/>
+Theory alone isn't enough. I build to understand, and build to make things that matter.
+<br/><br/>
 </td>
-<td align="center" width="25%">
-
-🌱 **Growing**
+<td align="center" width="1%">│</td>
+<td align="center" width="24%">
 <br/>
-Every day is an opportunity to write better code than yesterday.
-
+<b>🌱&nbsp; Growing</b>
+<br/><br/>
+Every problem, every commit, every failure is a step toward becoming a better engineer.
+<br/><br/>
 </td>
 </tr>
 </table>
 
 <br/>
 
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
 <br/>
 
-<!-- CONTACT SECTION -->
+<!-- ════════════════════════════════════════════════ -->
+<!--                CONNECT SECTION                  -->
+<!-- ════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### 📬 Let's Connect
+## 📬 Let's Connect
+
+*Open to collaborations, projects, and good conversations about code.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hariharan%20D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariharan-d-207a783a2/)
+[![Gmail](https://img.shields.io/badge/Gmail-hariharand2888-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariharand2888@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-hariharand28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariharand28)
+[![LeetCode](https://img.shields.io/badge/LeetCode-hariharan2888-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hariharan2888/)
 
-<br/>
+<br/><br/>
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=6C8EBF&label=PROFILE+VIEWS)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=hariharand28&style=for-the-badge&color=7F9CF5&label=PROFILE+VIEWS)
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--    Made with precision · Hariharan · Chennai, India · 2025     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ░░ FOOTER WAVE ░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f3460,70:16213e,100:0d1117&height=130&section=footer" width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--         Crafted with precision · Hariharan D · Chennai · 2025          -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
