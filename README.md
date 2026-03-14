@@ -70,8 +70,13 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 
 <br/><br/>
 
-<!-- GitHub Stats Summary Card — reliable alternative to trophy -->
-<img src="https://github-readme-stats.vercel.app/api?username=hariharand28&show_icons=true&hide=stars&hide_border=true&bg_color=100d00&title_color=C9A227&icon_color=C9A227&text_color=ffffff&ring_color=C9A227&border_radius=10&hide_title=true&count_private=true" width="320"/>
+![C++](https://img.shields.io/badge/Language-C%2B%2B-C9A227?style=flat-square&logo=cplusplus&logoColor=ffffff&labelColor=1c1800)
+![Chennai](https://img.shields.io/badge/📍-Chennai%2C%20India-C9A227?style=flat-square&labelColor=1c1800)
+![Student](https://img.shields.io/badge/🎓-CS%20Student-C9A227?style=flat-square&labelColor=1c1800)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=800&color=C9A227&center=true&vCenter=true&width=320&height=80&lines=Competitive+Programmer+%F0%9F%8F%86;DSA+%26+Algorithm+Expert+%F0%9F%94%8D;Always+Learning%2C+Always+Building+%F0%9F%9A%80;Open+to+Collaborations+%E2%9C%A6)](https://git.io/typing-svg)
 
 <br/>
 
@@ -169,11 +174,11 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-hariharan2888-ffffff?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=C9A227)](https://leetcode.com/u/hariharan2888/)&nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-hariharan2888-ffffff?style=for-the-badge&logo=codeforces&logoColor=ffffff&labelColor=A07D20)](https://codeforces.com/profile/hariharan2888)&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-hariharan2888-ffffff?style=for-the-badge&logo=codechef&logoColor=ffffff&labelColor=C9A227)](https://www.codechef.com/users/hariharan2888)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-hariharand__cse21-ffffff?style=for-the-badge&logo=hackerrank&logoColor=ffffff&labelColor=A07D20)](https://www.hackerrank.com/profile/hariharand_cse21)
+[![CodeChef](https://img.shields.io/badge/CodeChef-hariharan2888-ffffff?style=for-the-badge&logo=codechef&logoColor=ffffff&labelColor=C9A227)](https://www.codechef.com/users/hariharan2888)
 
 <br/><br/>
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-hariharand__cse21-ffffff?style=for-the-badge&logo=hackerrank&logoColor=ffffff&labelColor=A07D20)](https://www.hackerrank.com/profile/hariharand_cse21)&nbsp;
 [![SkillRack](https://img.shields.io/badge/SkillRack-hariharan2888-ffffff?style=for-the-badge&logo=checkmarx&logoColor=ffffff&labelColor=C9A227)](https://www.skillrack.com/faces/resume.xhtml?id=551555&key=hariharan2888)
 
 <br/><br/>
