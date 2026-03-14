@@ -5,17 +5,15 @@
 
 <div align="center">
 
-<!-- ▓▓▓ HEADER — CYLINDER GRADIENT ▓▓▓ -->
+<!-- ▓▓▓ HEADER ▓▓▓ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:080808,40:100d00,70:1c1800,100:080808&height=280&section=header&text=HARIHARAN%20D&fontSize=82&fontColor=C9A227&fontAlignY=50&desc=%E2%9F%A8%20CS%20Student%20%C2%B7%20Algorithm%20Craftsman%20%C2%B7%20Builder%20%E2%9F%A9&descAlignY=70&descSize=17&descColor=A07D20&animation=blinking&fontAlign=50&stroke=C9A227&strokeWidth=2"/>
 
 <br/>
 
-<!-- ▓▓▓ TYPING SVG ▓▓▓ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=1000&color=C9A227&center=true&vCenter=true&multiline=false&width=750&height=50&lines=%E2%9C%A6+Hello+World+%E2%80%94+I%27m+Hariharan+D+%E2%9C%A6;%E2%9A%94%EF%B8%8F+C%2B%2B+Engineer+%26+Algorithm+Craftsman;%F0%9F%8F%86+Competitive+Programmer+%7C+Chennai%2C+India;%F0%9F%94%A5+DSA+%7C+AI+%7C+Software+Development;%E2%9C%B4+Code+with+Precision.+Ship+with+Purpose.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=1000&color=C9A227&center=true&vCenter=true&width=750&height=50&lines=%E2%9C%A6+Hello+World+%E2%80%94+I%27m+Hariharan+D+%E2%9C%A6;%E2%9A%94%EF%B8%8F+C%2B%2B+Engineer+%26+Algorithm+Craftsman;%F0%9F%8F%86+Competitive+Programmer+%7C+Chennai%2C+India;%F0%9F%94%A5+DSA+%7C+AI+%7C+Software+Development;%E2%9C%B4+Code+with+Precision.+Ship+with+Purpose.)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ▓▓▓ TOP BADGES ▓▓▓ -->
 ![Views](https://komarev.com/ghpvc/?username=hariharand28&style=for-the-badge&color=C9A227&labelColor=100d00&label=PROFILE+VIEWS)
 &nbsp;
 [![Followers](https://img.shields.io/github/followers/hariharand28?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=C9A227&color=C9A227&labelColor=100d00)](https://github.com/hariharand28)
@@ -26,7 +24,7 @@
 
 <br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:C9A227,100:080808&height=3"/>
 
 <br/>
 
@@ -68,11 +66,12 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 
 <br/>
 
-<img src="https://github.com/hariharand28/hariharand28/blob/main/profile.png?raw=true" width="188" style="border-radius:10px"/>
+<img src="https://github.com/hariharand28/hariharand28/blob/main/profile.png?raw=true" width="188"/>
 
 <br/><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hariharand28&theme=gruvbox&no-frame=true&no-bg=true&margin-w=3&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- GitHub Stats Summary Card — reliable alternative to trophy -->
+<img src="https://github-readme-stats.vercel.app/api?username=hariharand28&show_icons=true&hide=stars&hide_border=true&bg_color=100d00&title_color=C9A227&icon_color=C9A227&text_color=ffffff&ring_color=C9A227&border_radius=10&hide_title=true&count_private=true" width="320"/>
 
 <br/>
 
@@ -82,7 +81,7 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 
 <br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:C9A227,100:080808&height=3"/>
 
 <br/>
 
@@ -97,7 +96,7 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 <br/><br/>
 
 <!-- ── LANGUAGES ── -->
-![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━%20LANGUAGES%20━━━━━━━━━━━━━━━━━━━━━━━━-1c1800?style=for-the-badge&logoColor=C9A227&labelColor=1c1800&color=C9A227)
+![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━%20LANGUAGES%20━━━━━━━━━━━━━━━━━━━━━━━━-1c1800?style=for-the-badge&labelColor=1c1800&color=C9A227)
 
 <br/><br/>
 
@@ -118,19 +117,19 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 
 <br/>
 
-<!-- ── TOOLS ── -->
+<!-- ── TOOLS & PLATFORMS ── -->
 ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━%20TOOLS%20%26%20ENVIRONMENT%20━━━━━━━━━━━━━━━━━━-1c1800?style=for-the-badge&labelColor=1c1800&color=C9A227)
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,tensorflow&theme=dark&perline=4" height="64"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" height="64"/>
 
 <br/><br/>
 
 ![Git](https://img.shields.io/badge/Git-Version%20Control-ffffff?style=flat-square&logo=git&logoColor=ffffff&labelColor=C9A227)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-Collaboration-ffffff?style=flat-square&logo=github&logoColor=ffffff&labelColor=A07D20)&nbsp;
 ![VSCode](https://img.shields.io/badge/VS%20Code-Editor-ffffff?style=flat-square&logo=visualstudiocode&logoColor=ffffff&labelColor=C9A227)&nbsp;
-![TF](https://img.shields.io/badge/TensorFlow-ML-ffffff?style=flat-square&logo=tensorflow&logoColor=ffffff&labelColor=A07D20)
+[![SkillRack](https://img.shields.io/badge/SkillRack-Profile-ffffff?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNFY4bDYgNHoiLz48L3N2Zz4=&logoColor=ffffff&labelColor=A07D20)](https://www.skillrack.com/faces/resume.xhtml?id=551555&key=hariharan2888)
 
 <br/><br/>
 
@@ -138,7 +137,7 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 
 <br/>
 
-<!-- ── CORE CS ── -->
+<!-- ── CORE CS MASTERY ── -->
 ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━%20CORE%20CS%20MASTERY%20━━━━━━━━━━━━━━━━━━━━━━-1c1800?style=for-the-badge&labelColor=1c1800&color=C9A227)
 
 <br/><br/>
@@ -175,8 +174,12 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 
 <br/><br/>
 
+[![SkillRack](https://img.shields.io/badge/SkillRack-hariharan2888-ffffff?style=for-the-badge&logo=checkmarx&logoColor=ffffff&labelColor=C9A227)](https://www.skillrack.com/faces/resume.xhtml?id=551555&key=hariharan2888)
+
+<br/><br/>
+
 ![CP](https://img.shields.io/badge/%E2%9C%A6%20Competitive%20Prog-Active%20Grinder-ffffff?style=flat-square&logo=codeforces&logoColor=ffffff&labelColor=C9A227)&nbsp;
-![AI](https://img.shields.io/badge/%E2%9C%A6%20AI%20%26%20ML-Exploring%20Daily-ffffff?style=flat-square&logo=tensorflow&logoColor=ffffff&labelColor=A07D20)&nbsp;
+![AI](https://img.shields.io/badge/%E2%9C%A6%20AI%20%26%20ML-Exploring%20Daily-ffffff?style=flat-square&logo=openai&logoColor=ffffff&labelColor=A07D20)&nbsp;
 ![Web](https://img.shields.io/badge/%E2%9C%A6%20Web%20Dev-Building%20%26%20Shipping-ffffff?style=flat-square&logo=nodedotjs&logoColor=ffffff&labelColor=C9A227)&nbsp;
 ![OS](https://img.shields.io/badge/%E2%9C%A6%20Open%20Source-Contributing-ffffff?style=flat-square&logo=github&logoColor=ffffff&labelColor=A07D20)
 
@@ -184,7 +187,7 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 
 <br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:C9A227,100:080808&height=3"/>
 
 <br/>
 
@@ -209,7 +212,7 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 
 <br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:C9A227,100:080808&height=3"/>
 
 <br/>
 
@@ -228,29 +231,32 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 <br/><br/>
 
 <!-- ▓▓▓ CONTRIBUTION SNAKE ▓▓▓
-     Setup: Go to your repo → Actions → New Workflow → paste the YAML below
-     ──────────────────────────────────────────────────────────────────────
-     name: Generate Snake
-     on:
-       schedule: [{ cron: "0 0 * * *" }]
-       workflow_dispatch:
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: hariharand28
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v3.1.0
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     ────────────────────────────────────────────────────────────────────── -->
+     To activate — create this file in your repo:
+     .github/workflows/snake.yml
+     ─────────────────────────────────────────────
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: hariharand28
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+     ─────────────────────────────────────────────
+     After the workflow runs once, the snake will appear below automatically. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -265,7 +271,7 @@ I'm a CS student from **Chennai** with a relentless obsession for **clean algori
 
 <br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:C9A227,100:080808&height=3"/>
 
 <br/>
 
@@ -293,7 +299,7 @@ I solve hard problems because the mental edge it builds is irreplaceable. Every 
 <td align="center" width="4%" valign="middle"><b>✦</b></td>
 <td align="center" width="22%">
 <br/>
-<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20CURIOUS-Always%20Exploring-ffffff?style=for-the-badge&logo=googlescholar&logoColor=ffffff&labelColor=A07D20"/>
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0%20CURIOUS-Always%20Exploring-ffffff?style=for-the-badge&logo=openai&logoColor=ffffff&labelColor=A07D20"/>
 <br/><br/>
 From low-level systems to AI — I read, break apart, and rebuild until I truly own it.
 <br/><br/>
@@ -319,7 +325,7 @@ Every bug, every contest, every late-night session — all compound into mastery
 
 <br/>
 
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:C9A227,100:080808&height=3"/>
 
 <br/>
 
@@ -346,7 +352,8 @@ Every bug, every contest, every late-night session — all compound into mastery
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-hariharan2888-ffffff?style=for-the-badge&logo=codeforces&logoColor=ffffff&labelColor=1F8ACB)](https://codeforces.com/profile/hariharan2888)&nbsp;
 [![CodeChef](https://img.shields.io/badge/CodeChef-hariharan2888-ffffff?style=for-the-badge&logo=codechef&logoColor=ffffff&labelColor=5B4638)](https://www.codechef.com/users/hariharan2888)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-hariharand__cse21-ffffff?style=for-the-badge&logo=hackerrank&logoColor=ffffff&labelColor=00EA64)](https://www.hackerrank.com/profile/hariharand_cse21)
+[![HackerRank](https://img.shields.io/badge/HackerRank-hariharand__cse21-ffffff?style=for-the-badge&logo=hackerrank&logoColor=ffffff&labelColor=00EA64)](https://www.hackerrank.com/profile/hariharand_cse21)&nbsp;
+[![SkillRack](https://img.shields.io/badge/SkillRack-hariharan2888-ffffff?style=for-the-badge&logo=checkmarx&logoColor=ffffff&labelColor=C9A227)](https://www.skillrack.com/faces/resume.xhtml?id=551555&key=hariharan2888)
 
 <br/><br/>
 
@@ -361,10 +368,10 @@ Every bug, every contest, every late-night session — all compound into mastery
 </div>
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                           FOOTER                                          -->
+<!--                              FOOTER                                       -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:C9A227,100:080808&height=3"/>
 
 <div align="center">
 
@@ -374,8 +381,8 @@ Every bug, every contest, every late-night session — all compound into mastery
 
 <br/>
 
-| 📍 Chennai, India | 🎓 Computer Science Student | ⚡ C++ · DSA · AI | 📅 2025 |
-|:---:|:---:|:---:|:---:|
+| 📍 Chennai, India | 🎓 CS Student | ⚡ C++ · DSA · AI | 🏆 Competitive Programmer | 📅 2025 |
+|:---:|:---:|:---:|:---:|:---:|
 
 <br/>
 
@@ -385,11 +392,12 @@ Every bug, every contest, every late-night session — all compound into mastery
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/hariharan2888/)&nbsp;
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/hariharan2888)&nbsp;
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/hariharan2888)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/hariharand_cse21)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/hariharand_cse21)&nbsp;
+[![SkillRack](https://img.shields.io/badge/SkillRack-C9A227?style=flat-square&logo=checkmarx&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=551555&key=hariharan2888)
 
 <br/>
 
-*✦ Built with precision · © hariharand28 · 2025 ✦*
+*✦ Forged in Obsidian & Gold · Built with precision · © hariharand28 · 2025 ✦*
 
 <br/>
 
