@@ -3,7 +3,7 @@
 <!--                  OBSIDIAN BLACK × METALLIC GOLD EDITION                  -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div align="center"> 
 
 <!-- ▓▓▓ HEADER ▓▓▓ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:080808,40:100d00,70:1c1800,100:080808&height=280&section=header&text=HARIHARAN%20D&fontSize=82&fontColor=C9A227&fontAlignY=50&desc=%E2%9F%A8%20CS%20Student%20%C2%B7%20Algorithm%20Craftsman%20%C2%B7%20Builder%20%E2%9F%A9&descAlignY=70&descSize=17&descColor=A07D20&animation=blinking&fontAlign=50&stroke=C9A227&strokeWidth=2"/>
