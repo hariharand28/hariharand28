@@ -1,286 +1,320 @@
-<!-- ============================================================
-     HARIHARAN D — GitHub Profile README
-     Premium Engineering Profile · v2.0
-     ============================================================ -->
+
+cat > /mnt/user-data/outputs/README.md << 'ENDOFREADME'
+<!--
+╔═══════════════════════════════════════════════════════════════════╗
+║          HARIHARAN D  ·  GitHub Profile README  ·  v3.0           ║
+║          VOID × VIOLET  ·  Architect-Grade Engineering Profile     ║
+╚═══════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<!-- TOP ACCENT LINE -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%" style="display:none"/>
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  HERO                                                           -->
+<!-- ─────────────────────────────────────────────────────────────── -->
 
-<!-- CUSTOM HERO BANNER via capsule-render -->
-<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=120&section=header&text=&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,30:0d0d14,60:110d1a,100:050505&height=260&section=header&text=HARIHARAN%20D&fontSize=72&fontColor=ffffff&fontAlignY=48&fontAlign=50&desc=Competitive%20Programmer%20%C2%B7%20Full%20Stack%20Engineer%20%C2%B7%20Aspiring%20SDE&descAlignY=68&descSize=16&descColor=6E56CF&animation=fadeIn&stroke=6E56CF&strokeWidth=1"/>
 
-<!-- PROFILE PHOTO — circular, bordered -->
-<img
-  src="https://github.com/hariharan-d.png"
-  width="110"
-  height="110"
-  style="border-radius:50%;border:2px solid #6E56CF;"
-  alt="Hariharan D"
-/>
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  PROFILE PHOTO                                                  -->
+<!-- ─────────────────────────────────────────────────────────────── -->
 
 <br/>
-<br/>
 
-<!-- NAME — clean typographic treatment -->
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=36&duration=0&pause=9999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=480&height=56&lines=Hariharan+D" alt="Hariharan D"/>
-
-<!-- ROLE — subdued monospace tagline -->
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=0&pause=9999&color=888888&center=true&vCenter=true&repeat=false&width=560&height=30&lines=Competitive+Programmer+%C2%B7+Full+Stack+Engineer+%C2%B7+Aspiring+SDE" alt="Role"/>
+<img src="https://github.com/hariharan-d.png" width="100" style="border-radius:50%" alt="Hariharan D"/>
 
 <br/><br/>
 
-<!-- SOCIAL LINKS — text-only, professional, no childish logos -->
-<table>
+<!-- ─────────────────────────────────────────────────────────────── -->
+<!--  SOCIAL ROW — icon badges, no labels, tight spacing             -->
+<!-- ─────────────────────────────────────────────────────────────── -->
+
+<a href="https://www.linkedin.com/in/hariharan-d" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=6E56CF" height="30"/>
+</a>&nbsp;
+<a href="https://leetcode.com/hariharan-d" title="LeetCode">
+  <img src="https://img.shields.io/badge/-LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=6E56CF" height="30"/>
+</a>&nbsp;
+<a href="mailto:hariharan.d@email.com" title="Email">
+  <img src="https://img.shields.io/badge/-Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=6E56CF" height="30"/>
+</a>&nbsp;
+<a href="https://github.com/hariharan-d" title="GitHub">
+  <img src="https://img.shields.io/badge/-GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=6E56CF" height="30"/>
+</a>
+
+<br/><br/>
+
+<!-- visitor counter — minimal, no decoration -->
+<img src="https://komarev.com/ghpvc/?username=hariharan-d&color=6E56CF&style=flat-square&label=profile+views" alt="views"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  FEATURED PROJECTS                                              -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=38&text=%E2%9A%A1%20Featured%20Projects&fontSize=14&fontColor=6E56CF&fontAlignY=65&fontAlign=4.2" width="100%"/>
+
+<br/>
+
+<table width="100%">
 <tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/hariharan-d">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logoColor=white&label=&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzZFNTZDRiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAxOS4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDB6Ii8+PC9zdmc+" height="28" alt="LinkedIn"/>
-</a>
+<td width="49%" valign="top" style="padding:12px">
+
+<img src="https://img.shields.io/badge/ZeroWaste-Full--Stack%20%C2%B7%20Marketplace-6E56CF?style=flat-square&labelColor=111111" height="24"/>
+
+<br/><br/>
+
+A production platform connecting restaurants with consumers — surplus food at discounted prices with live inventory management, real-time order flow, and full payment infrastructure via Razorpay.
+
+<br/>
+
+**Problem solved:** Food waste at city scale. **Architecture:** React + TypeScript frontend, Supabase as the backend-as-a-service layer with real-time subscriptions, Razorpay for payment orchestration.
+
+<br/>
+
+![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat-square&logo=typescript&logoColor=3178C6)
+![Supabase](https://img.shields.io/badge/Supabase-111?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Razorpay](https://img.shields.io/badge/Razorpay-111?style=flat-square&logo=razorpay&logoColor=3395FF)
+
+<br/>
+
+[![View →](https://img.shields.io/badge/View%20Repository%20→-0d0d0d?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=6E56CF&logo=github)](https://github.com/hariharan-d/zerowaste)
+
 </td>
-<td align="center" width="20"></td>
-<td align="center">
-<a href="https://leetcode.com/hariharan-d">
-<img src="https://img.shields.io/badge/LeetCode-111111?style=flat-square&logoColor=white&label=&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzZFNTZDRiIgZD0iTTEzLjQ4MyA1LjM0MWwtOC4xNCA4LjE0MWEyLjkzNyAyLjkzNyAwIDAgMCAwIDQuMTVsMi4xMyAyLjEzYTIuOTM3IDIuOTM3IDAgMCAwIDQuMTUgMGwuNzE0LS43MTQtMS40NjYtMS40NjYtLjcxNC43MTRhLjkyMi45MjIgMCAwIDEtMS4yOTggMGwtMi4xMy0yLjEzYS45MjIuOTIyIDAgMCAxIDAtMS4yOThsOC4xNC04LjE0YS45MjIuOTIyIDAgMCAxIDEuMjk4IDBsMS4zODIgMS4zODIgMS40NjYtMS40NjYtMS4zODItMS4zODNhMi45MzcgMi45MzcgMCAwIDAtNC4xNSAwem01LjAxNCA4LjIzOGwtLjcxNC43MTQgMS40NjYgMS40NjYuNzE0LS43MTRhLjkyMi45MjIgMCAwIDEgMS4yOTggMGwyLjEzIDIuMTNhLjkyMi45MjIgMCAwIDEgMCAxLjI5OGwtOC4xNCA4LjE0YS45MjIuOTIyIDAgMCAxLTEuMjk4IDBsLTEuMzgxLTEuMzgxLTEuNDY2IDEuNDY2IDEuMzgxIDEuMzgxYTIuOTM3IDIuOTM3IDAgMCAwIDQuMTUgMGw4LjE0LTguMTRhMi45MzcgMi45MzcgMCAwIDAgMC00LjE1bC0yLjEzLTIuMTNhMi45MzcgMi45MzcgMCAwIDAtNC4xNSAwem0tNy4zNSAzLjYzN2ExLjAzIDEuMDMgMCAxIDAgMCAyLjA2aDYuNzA3YTEuMDMgMS4wMyAwIDEgMCAwLTIuMDZoLTYuNzA3eiIvPjwvc3ZnPg==" height="28" alt="LeetCode"/>
-</a>
-</td>
-<td align="center" width="20"></td>
-<td align="center">
-<a href="mailto:hariharan.d@email.com">
-<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logoColor=white&label=&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzZFNTZDRiIgZD0iTTIwIDRINEMyLjkgNCAyIDQuOSAyIDZ2MTJjMCAxLjEuOSAyIDIgMmgxNmMxLjEgMCAyLS45IDItMlY2YzAtMS4xLS45LTItMi0yem0wIDRsLTggNS04LVZIN2w4IDUgOC01djF6Ii8+PC9zdmc+" height="28" alt="Email"/>
-</a>
-</td>
-<td align="center" width="20"></td>
-<td align="center">
-<a href="https://github.com/hariharan-d">
-<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logoColor=white&label=&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzZFNTZDRiIgZD0iTTEyIC4yOTdDNS4zNy4yOTcgMCA1LjY2NiAwIDEyLjI5N2MwIDUuMzAyIDMuNDM4IDkuOCA4LjIwNSAxMS4zODUuNi4xMTMuODItLjI1OC44Mi0uNTc3di0yLjIzNGMtMy4zMzguNzI2LTQuMDMzLTEuNDE2LTQuMDMzLTEuNDE2LS41NDYtMS4zODctMS4zMzMtMS43NTYtMS4zMzMtMS43NTYtMS4wODktLjc0NS4wODMtLjcyOS4wODMtLjcyOSAxLjIwNS4wODQgMS44MzkgMS4yMzYgMS44MzkgMS4yMzYgMS4wNyAxLjgzNSAyLjgwOSAxLjMwNSAzLjQ5NS45OTguMTA4LS43NzYuNDE3LTEuMzA1Ljc2LTEuNjA1LTIuNjY1LS4zLTUuNDY2LTEuMzMyLTUuNDY2LTUuOTMgMC0xLjMxLjQ2NS0yLjM4IDEuMjM1LTMuMjItLjEzNS0uMzAzLS41NC0xLjUyMy4xMDUtMy4xNzYgMCAwIDEuMDA1LS4zMjIgMy4zIDEuMjMuOTYtLjI2NyAxLjk4LS4zOTkgMy0uNDA1IDEuMDIuMDA2IDIuMDQuMTM4IDMgLjQwNSAyLjI4LTEuNTUyIDMuMjg1LTEuMjMgMy4yODUtMS4yMy42NDUgMS42NTMuMjQgMi44NzMuMTIgMy4xNzYuNzY1Ljg0IDEuMjMgMS45MSAxLjIzIDMuMjIgMCA0LjYxLTIuODA1IDUuNjI1LTUuNDc1IDUuOTIuNDIuMzYuODEgMS4wOTYuODEgMi4yMiAwIDEuNjA2LS4wMTUgMi44OTYtLjAxNSAzLjI4NiAwIC4zMTUuMjEuNjkuODI1LjU3QzIwLjU2NSAyMi4wOTIgMjQgMTcuNTkyIDI0IDEyLjI5NyAyNCA1LjY2NiAxOC42MjcuMjk3IDEyIC4yOTd6Ii8+PC9zdmc+" height="28" alt="GitHub"/>
-</a>
+
+<td width="2%"></td>
+
+<td width="49%" valign="top" style="padding:12px">
+
+<img src="https://img.shields.io/badge/RepairX-Service%20Marketplace-3B82F6?style=flat-square&labelColor=111111" height="24"/>
+
+<br/><br/>
+
+A two-sided marketplace connecting users with verified repair professionals across appliances, electronics, and household services — with professional onboarding, booking flows, and integrated payment processing.
+
+<br/>
+
+**Problem solved:** Trust gap in the repair economy. **Architecture:** React frontend, Supabase for real-time data and auth, Razorpay for payout flows to service providers.
+
+<br/>
+
+![React](https://img.shields.io/badge/React-111?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Supabase](https://img.shields.io/badge/Supabase-111?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Razorpay](https://img.shields.io/badge/Razorpay-111?style=flat-square&logo=razorpay&logoColor=3395FF)
+
+<br/>
+
+[![View →](https://img.shields.io/badge/View%20Repository%20→-0d0d0d?style=flat-square&labelColor=0d0d0d&color=0d0d0d&logoColor=3B82F6&logo=github)](https://github.com/hariharan-d/repairx)
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- THIN SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a2e&height=1&width=80%25" width="80%"/>
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  COMPETITIVE PROGRAMMING                                        -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=38&text=%F0%9F%A7%A0%20Competitive%20Programming&fontSize=14&fontColor=6E56CF&fontAlignY=65&fontAlign=5.8" width="100%"/>
 
 <br/>
-
-<!-- ============================================================
-     FEATURED PROJECTS
-     ============================================================ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=45&section=header&text=Featured+Projects&fontSize=15&fontColor=AAAAAA&fontAlignY=65&animation=fadeIn&desc=Production+systems+built+for+real+users&descSize=11&descAlignY=90&descColor=555555" width="100%"/>
+
+<table>
+<tr>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/Rating-1745-6E56CF?style=for-the-badge&labelColor=111111" height="32"/>
+<br/><sub>Contest Rating</sub>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/Solved-305%2B-3B82F6?style=for-the-badge&labelColor=111111" height="32"/>
+<br/><sub>Problems Solved</sub>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/Percentile-Top%2010%25-6E56CF?style=for-the-badge&labelColor=111111" height="32"/>
+<br/><sub>Global Rank</sub>
+</td>
+<td align="center" width="160">
+<img src="https://img.shields.io/badge/Contests-38-3B82F6?style=for-the-badge&labelColor=111111" height="32"/>
+<br/><sub>Attended</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/hariharan-d?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=1&radius=6&width=500)
+
+<br/>
+
+<sup>A 1745 LeetCode rating is not grind — it's algorithmic reasoning under timed, ranked pressure.</sup>
+
 </div>
 
 <br/>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  ENGINEERING STACK                                              -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=38&text=%F0%9F%9B%A0%EF%B8%8F%20Engineering%20Stack&fontSize=14&fontColor=6E56CF&fontAlignY=65&fontAlign=4.8" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+
+**Interface Layer**
+
+<br/>
+
+![HTML5](https://img.shields.io/badge/HTML5-0f0f0f?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f0f0f?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JS-0f0f0f?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TS-0f0f0f?style=flat-square&logo=typescript&logoColor=3178C6)
+
+<br/>
+
+![React](https://img.shields.io/badge/React-0f0f0f?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f0f0f?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f0f0f?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Data & Backend**
+
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-0f0f0f?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Supabase](https://img.shields.io/badge/Supabase-0f0f0f?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Firebase](https://img.shields.io/badge/Firebase-0f0f0f?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f0f?style=flat-square&logo=postgresql&logoColor=4169E1)
+![REST API](https://img.shields.io/badge/REST_API-0f0f0f?style=flat-square&logo=fastapi&logoColor=009688)
+
+</td>
+<td align="center" valign="top" width="33%">
+
+**Integrations & Deploy**
+
+<br/>
+
+![Razorpay](https://img.shields.io/badge/Razorpay-0f0f0f?style=flat-square&logo=razorpay&logoColor=3395FF)
+![Google Maps](https://img.shields.io/badge/Maps_API-0f0f0f?style=flat-square&logo=googlemaps&logoColor=4285F4)
+
+<br/>
+
+![Vercel](https://img.shields.io/badge/Vercel-0f0f0f?style=flat-square&logo=vercel&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-0f0f0f?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Git](https://img.shields.io/badge/Git-0f0f0f?style=flat-square&logo=git&logoColor=F05032)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  GITHUB ACTIVITY                                                -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=38&text=%F0%9F%93%88%20GitHub%20Activity&fontSize=14&fontColor=6E56CF&fontAlignY=65&fontAlign=4" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=hariharan-d&show_icons=true&theme=transparent&title_color=6E56CF&icon_color=6E56CF&text_color=cccccc&border_color=1f1f1f&hide_border=false&include_all_commits=true&rank_icon=percentile&custom_title=GitHub%20Stats"/>
+&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-d&theme=transparent&background=00000000&border=1f1f1f&stroke=1f1f1f&ring=6E56CF&fire=3B82F6&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=888888&sideLabels=888888&dates=555555"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan-d&theme=react-dark&bg_color=0a0a0a&color=6E56CF&line=3B82F6&point=ffffff&area=true&area_color=6E56CF20&hide_border=false&border_color=1f1f1f&radius=4"/>
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  CURRENT FOCUS                                                  -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=38&text=%F0%9F%8E%AF%20Current%20Focus&fontSize=14&fontColor=6E56CF&fontAlignY=65&fontAlign=3.8" width="100%"/>
+
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
 <td width="50%" valign="top">
-<div align="left">
 
-**ZeroWaste** &nbsp;&nbsp; `Full-Stack · Marketplace`
+```
+  ◆  Advanced DSA            →  Targeting 1800+ rating
+  ◆  System Design           →  Scalability & architecture
+  ◆  Full Stack Engineering  →  Production-grade systems
+```
 
-A production platform connecting restaurants with nearby consumers — surplus food at discounted prices, with live inventory, real-time orders, and integrated payment infrastructure.
-
-`React` &nbsp;`TypeScript` &nbsp;`Supabase` &nbsp;`Razorpay`
-
-[![→ View Repository](https://img.shields.io/badge/→_View_Repository-161616?style=flat-square&labelColor=161616&color=161616)](https://github.com/hariharan-d/zerowaste)
-
-</div>
 </td>
+<td width="50%" valign="top">
 
-<td width="4%"></td>
+```
+  ◆  SDE Internships         →  FAANG · product companies
+  ◆  Open Source             →  Shipping real features
+  ◆  CS Fundamentals         →  OS · Networks · DBMS
+```
 
-<td width="46%" valign="top">
-<div align="left">
-
-**RepairX** &nbsp;&nbsp; `Service Marketplace`
-
-A two-sided marketplace connecting users with verified repair professionals across appliances, electronics, and home services — with booking flows, professional verification, and payment processing.
-
-`React` &nbsp;`JavaScript` &nbsp;`Supabase` &nbsp;`Razorpay`
-
-[![→ View Repository](https://img.shields.io/badge/→_View_Repository-161616?style=flat-square&labelColor=161616&color=161616)](https://github.com/hariharan-d/repairx)
-
-</div>
 </td>
-
 </tr>
-</table>
-
-<br/>
-
----
-
-<!-- ============================================================
-     COMPETITIVE PROGRAMMING
-     ============================================================ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=45&section=header&text=Competitive+Programming&fontSize=15&fontColor=AAAAAA&fontAlignY=65&animation=fadeIn&desc=Analytical+ability+under+contest+conditions&descSize=11&descAlignY=90&descColor=555555" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<table>
-<thead>
-<tr>
-<th align="center">Platform</th>
-<th align="center">Rating</th>
-<th align="center">Problems</th>
-<th align="center">Percentile</th>
-<th align="center">Contests</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><b>LeetCode</b></td>
-<td align="center"><b>1745</b></td>
-<td align="center"><b>305+</b></td>
-<td align="center"><b>Top ~10%</b></td>
-<td align="center"><b>38</b></td>
-</tr>
-</tbody>
 </table>
 
 </div>
 
 <br/>
 
-<div align="center">
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  CONTACT                                                        -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/hariharan-d?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=4)
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================
-     ENGINEERING STACK
-     ============================================================ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=45&section=header&text=Engineering+Stack&fontSize=15&fontColor=AAAAAA&fontAlignY=65&animation=fadeIn&desc=Technologies+in+active+production+use&descSize=11&descAlignY=90&descColor=555555" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0d0d0d&height=38&text=%F0%9F%93%A1%20Contact&fontSize=14&fontColor=6E56CF&fontAlignY=65&fontAlign=3" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=E34F26)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3178C6)&nbsp;
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-
-<br/>
-
-**Backend · Database · Integrations**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=339933)&nbsp;
-![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=3ECF8E)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=FFCA28)&nbsp;
-![Razorpay](https://img.shields.io/badge/Razorpay-0d0d0d?style=flat-square&logo=razorpay&logoColor=3395FF)&nbsp;
-![Google Maps](https://img.shields.io/badge/Maps_API-0d0d0d?style=flat-square&logo=googlemaps&logoColor=4285F4)
-
-<br/>
-
-**Deployment · DevOps**
-
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=FFFFFF)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=flat-square&logo=githubactions&logoColor=2088FF)
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================
-     GITHUB ACTIVITY
-     ============================================================ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=45&section=header&text=GitHub+Activity&fontSize=15&fontColor=AAAAAA&fontAlignY=65&animation=fadeIn" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=hariharan-d&show_icons=true&theme=transparent&title_color=6E56CF&icon_color=6E56CF&text_color=cccccc&border_color=2a2a2a&hide_border=false&include_all_commits=true&rank_icon=percentile&custom_title=Stats" alt="Stats"/>
+<a href="https://www.linkedin.com/in/hariharan-d">
+  <img src="https://img.shields.io/badge/linkedin.com%2Fin%2Fhariharan--d-111111?style=flat-square&logo=linkedin&logoColor=6E56CF" height="26"/>
+</a>
 &nbsp;&nbsp;
-<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan-d&theme=transparent&background=00000000&border=2a2a2a&stroke=2a2a2a&ring=6E56CF&fire=3B82F6&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=888888&sideLabels=888888&dates=555555" alt="Streak"/>
-
-<br/><br/>
-
-<img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan-d&theme=react-dark&bg_color=0d0d0d&color=6E56CF&line=3B82F6&point=ffffff&area=true&area_color=6E56CF&hide_border=false&border_color=2a2a2a&radius=6" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ============================================================
-     CURRENT FOCUS
-     ============================================================ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=45&section=header&text=Current+Focus&fontSize=15&fontColor=AAAAAA&fontAlignY=65&animation=fadeIn&desc=What+I%27m+building+toward+right+now&descSize=11&descAlignY=90&descColor=555555" width="100%"/>
-</div>
-
-<br/>
-
-```
-  ◆  Advanced DSA & Problem Solving      →  Pushing beyond 1800 contest rating
-  ◆  System Design Fundamentals          →  Distributed systems & scalability patterns
-  ◆  Full Stack Engineering              →  Production-grade architecture & deployment
-  ◆  SDE Internships                     →  FAANG and high-growth product companies
-  ◆  Open Source Contributions           →  Building in public, shipping real features
-```
-
-<br/>
-
----
-
-<!-- ============================================================
-     CONTACT
-     ============================================================ -->
-
-<div align="center">
-
-**Get in touch**
-
-<br/>
-
-[linkedin.com/in/hariharan-d](https://www.linkedin.com/in/hariharan-d) &nbsp;·&nbsp;
-[leetcode.com/hariharan-d](https://leetcode.com/hariharan-d) &nbsp;·&nbsp;
-hariharan.d@email.com &nbsp;·&nbsp;
-[github.com/hariharan-d](https://github.com/hariharan-d)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=3" width="100%"/>
-
-<br/>
-
-<sub>Chennai, India &nbsp;·&nbsp; Open to SDE Internship opportunities</sub>
+<a href="https://leetcode.com/hariharan-d">
+  <img src="https://img.shields.io/badge/leetcode.com%2Fhariharan--d-111111?style=flat-square&logo=leetcode&logoColor=6E56CF" height="26"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:hariharan.d@email.com">
+  <img src="https://img.shields.io/badge/hariharan.d%40email.com-111111?style=flat-square&logo=gmail&logoColor=6E56CF" height="26"/>
+</a>
 
 </div>
+
+<br/>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:0d0d14,100:050505&height=100&section=footer&text=Chennai%2C%20India%20%C2%B7%20Open%20to%20SDE%20Internships&fontSize=13&fontColor=444444&fontAlignY=55&fontAlign=50&reversal=true"/>
+ENDOFREADME
+echo "✓ Written"
