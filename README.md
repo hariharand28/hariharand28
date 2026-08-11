@@ -1,33 +1,17 @@
-<!-- ===================================================== -->
-<!-- HARIHARAN D · GitHub Profile -->
-<!-- VOID × VIOLET · SDE Edition -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,30:0d0d14,60:110d1a,100:050505&height=280&section=header&text=HARIHARAN%20D&fontSize=78&fontColor=ffffff&fontAlignY=45&desc=Competitive%20Programmer%20%E2%80%A2%20Building%20Scalable%20Products%20%E2%80%A2%20Aspiring%20Software%20Development%20Engineer&descAlignY=67&descSize=16&descColor=6E56CF&animation=fadeIn&stroke=6E56CF&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,30:0d0d14,60:110d1a,100:050505&height=260&section=header&text=HARIHARAN%20D&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Competitive%20Programmer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Aspiring%20SDE&descAlignY=65&descSize=15&descColor=6E56CF&animation=fadeIn&stroke=6E56CF&strokeWidth=1"/>
 
 <br/>
 
-<img src="https://github.com/hariharand28.png" width="110" alt="Hariharan D"/>
+<img src="https://github.com/hariharand28.png" width="100" style="border-radius:50%" alt="Hariharan D"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/hariharan2888/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=6E56CF"/>
-</a>
-
-<a href="https://leetcode.com/u/hariharan2888/">
-  <img src="https://img.shields.io/badge/LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
-
-<a href="mailto:hariharand2888@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://github.com/hariharand28">
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
+<a href="https://www.linkedin.com/in/hariharan2888/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=6E56CF"/></a>
+<a href="https://leetcode.com/u/hariharan2888/"><img src="https://img.shields.io/badge/LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+<a href="mailto:hariharand2888@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://github.com/hariharand28"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
 
 <br/><br/>
 
@@ -35,101 +19,37 @@
 
 </div>
 
----
+<br/>
 
-## About
+## 01 / ENGINEER
 
-Computer Science Engineering student focused on **competitive programming**, **full-stack development**, and **software engineering fundamentals**.
+I'm a Computer Science Engineering student who builds working products and solves algorithmic problems under constraint — not one or the other.
 
-- 🧠 305+ LeetCode Problems Solved
-- 🏆 LeetCode Contest Rating: **1745**
-- 📈 Top **10.54%** Global Contest Ranking
-- ⚡ Building production-ready applications using React, Next.js, Node.js & Supabase
-- 🎯 Preparing for Software Development Engineer internships
+**Building** — full-stack applications with React, Next.js, Node.js, and Supabase, from database design through payment integration.
 
-I enjoy solving algorithmic problems, building scalable applications, and learning the engineering principles behind high-quality software systems.
+**Sharpening** — advanced data structures & algorithms, system design fundamentals, and backend engineering.
 
----
+**Looking for** — Software Development Engineer internship opportunities.
 
-## Featured Projects
+<br/>
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🍱 ZeroWaste
-
-A full-stack platform connecting restaurants with consumers to reduce food waste through discounted surplus food listings.
-
-#### Highlights
-
-- Real-time inventory management
-- Restaurant onboarding
-- Consumer marketplace
-- Razorpay payment integration
-- Scalable Supabase backend
-
-#### Tech Stack
-
-`React`
-`TypeScript`
-`Supabase`
-`Razorpay`
-
-#### Repository
-
-🔗 https://github.com/hariharand28/ZeroWaste
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔧 RepairX
-
-A service marketplace connecting users with trusted professionals for appliance, electronics, and household repairs.
-
-#### Highlights
-
-- Professional onboarding
-- Booking management
-- Service marketplace
-- Payment workflows
-- Real-time backend infrastructure
-
-#### Tech Stack
-
-`React`
-`JavaScript`
-`Supabase`
-`Razorpay`
-
-#### Repository
-
-🔗 https://github.com/hariharand28/RepairX
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Competitive Programming
+## By the Numbers
 
 <div align="center">
 
-| Metric | Value |
-|----------|----------|
-| Problems Solved | 305+ |
-| Contest Rating | 1745 |
-| Global Ranking | 90,155 |
-| Percentile | Top 10.54% |
-| Contests Attended | 38 |
+| Problems Solved | Contest Rating | Global Percentile | Global Rank | Contests |
+|:---:|:---:|:---:|:---:|:---:|
+| **305+** | **1745** | **Top 10.54%** | **90,155** | **38** |
 
 </div>
 
 <br/>
+
+## 02 / COMPETITIVE PROGRAMMING
+
+Consistent problem solving → rated contests → algorithmic thinking → stronger engineering fundamentals.
+
+> I use competitive programming to strengthen algorithmic thinking, complexity analysis, and problem-solving under constraints.
 
 <div align="center">
 
@@ -137,65 +57,116 @@ A service marketplace connecting users with trusted professionals for appliance,
 
 </div>
 
-Consistently solving algorithmic problems and participating in rated contests to strengthen analytical thinking and problem-solving ability.
+<br/>
 
----
+## 03 / SELECTED WORK
 
-## Engineering Stack
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### Frontend
+**01 / ZeroWaste**
+### 🍱 Surplus-Food Marketplace
 
-`HTML`
-`CSS`
-`JavaScript`
-`React`
-`Next.js`
-`Tailwind CSS`
+A marketplace connecting restaurants with consumers, designed to reduce food waste through time-sensitive, discounted surplus-food listings.
 
-### Backend
+**Engineering highlights**
+- Real-time inventory management
+- Restaurant onboarding flow
+- Consumer-facing marketplace
+- Razorpay payment integration
+- Scalable Supabase backend
 
-`Node.js`
-`Supabase`
+**Stack**
+`React` `TypeScript` `Supabase` `Razorpay`
 
-### Integrations
+🔗 [Repository](https://github.com/hariharand28/ZeroWaste)
 
-`Razorpay`
-`Google Maps API`
+</td>
+<td width="50%" valign="top">
 
-### Deployment
+**02 / RepairX**
+### 🔧 Repair Services Marketplace
 
-`Vercel`
-`GitHub Actions`
-`Git`
+A service marketplace connecting users with trusted professionals for appliance, electronics, and household repairs.
 
----
+**Engineering highlights**
+- Professional onboarding flow
+- Booking management system
+- Service marketplace listings
+- Payment workflow integration
+- Real-time backend infrastructure
 
-## GitHub Analytics
+**Stack**
+`React` `JavaScript` `Supabase` `Razorpay`
+
+🔗 [Repository](https://github.com/hariharand28/RepairX)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 04 / ENGINEERING STACK
+
+**Frontend**
+`HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS`
+
+**Backend**
+`Node.js` `Supabase`
+
+**Integrations**
+`Razorpay` `Google Maps API`
+
+**Tooling & Deployment**
+`Git` `GitHub Actions` `Vercel`
+
+<br/>
+
+## 05 / CURRENT FOCUS
+
+```text
+Solving     → Advanced DSA
+Building    → Full-stack products
+Learning    → System Design
+Preparing   → SDE opportunities
+```
+
+<br/>
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hariharand28&show_icons=true&theme=transparent&title_color=6E56CF&icon_color=6E56CF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hariharand28&show_icons=true&theme=transparent&title_color=6E56CF&icon_color=6E56CF&text_color=cccccc&border_color=1a1a1a"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharand28&theme=transparent&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF&border=1a1a1a"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharand28&theme=transparent&ring=6E56CF"/>
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hariharand28&theme=react-dark&bg_color=0a0a0a&color=6E56CF&line=6E56CF&point=ffffff&area=true"/>
 
 </div>
 
 <br/>
 
-<div align="center">
+## What I Care About
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hariharand28&theme=react-dark&bg_color=0a0a0a&color=6E56CF&line=3B82F6&point=ffffff&area=true"/>
+> I care more about why a system behaves a certain way than simply getting it to run.
 
-</div>
+<br/>
 
 ---
 
-## Current Focus
+<div align="center">
 
-```text
-◆ Advanced Data Structures & Algorithms
-◆ System Design Fundamentals
-◆ Full Stack Engineering
-◆ Software Development Engineer Internships
-◆ Building Scalable Products
-◆ Computer Science Fundamentals
+## Let's Build Something
+
+Open to SDE internships, engineering collaborations, and interesting problems.
+
+<a href="https://www.linkedin.com/in/hariharan2888/">LinkedIn</a> ·
+<a href="https://github.com/hariharand28">GitHub</a> ·
+<a href="https://leetcode.com/u/hariharan2888/">LeetCode</a> ·
+<a href="mailto:hariharand2888@gmail.com">Email</a>
+
+</div>
