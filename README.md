@@ -5,23 +5,23 @@
 ### Computer Science Engineering Student · Full-Stack Developer · Problem Solver
 
 <p>
-  I build practical software across the stack — from interfaces and APIs to databases,
-  authentication, integrations, and deployment.
+  Building practical software across frontend, backend, databases, APIs, AI, cybersecurity,
+  and deployment.
 </p>
 
 <br/>
 
 <a href="https://github.com/hariharand28">
-  <img src="https://img.shields.io/badge/GitHub-080808?style=for-the-badge&logo=github&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/GitHub-08080A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 <a href="https://www.linkedin.com/in/hariharan2888/">
-  <img src="https://img.shields.io/badge/LinkedIn-080808?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/LinkedIn-08080A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 <a href="https://leetcode.com/u/hariharan2888/">
-  <img src="https://img.shields.io/badge/LeetCode-080808?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/LeetCode-08080A?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 <a href="mailto:hariharand2888@gmail.com">
-  <img src="https://img.shields.io/badge/Email-080808?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  <img src="https://img.shields.io/badge/Email-08080A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 <br/><br/>
@@ -37,50 +37,56 @@
 
 <div align="center">
 
-# BUILDING IN MOTION
-
-### Software · Systems · AI · Cybersecurity
-
-</div>
-
-<br/>
-
-## ⚡ GitHub Streak
-
-<div align="center">
+## ⚡ GITHUB STREAK
 
 <img
-  src="https://streak-stats.demolab.com?user=hariharand28&theme=dark&hide_border=true&background=050505&ring=E31B2F&fire=FF3248&currStreakLabel=E31B2F&sideLabels=C8C8C8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"
+  src="https://streak-stats.demolab.com?user=hariharand28&theme=dark&hide_border=true&background=050505&ring=E31B2F&fire=FF3047&currStreakLabel=E31B2F&sideLabels=C8C8C8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"
   alt="GitHub Streak"
 />
 
 </div>
 
-<br/>
+---
 
-## 01 / THE DEVELOPER
+# 01 / DEVELOPER PROFILE
 
-I'm a **Computer Science Engineering student** interested in building software that is useful, reliable, and maintainable.
+<div align="center">
 
-I like working across the stack rather than staying inside a single layer.
+### SOFTWARE · SYSTEMS · AI · CYBERSECURITY
+
+</div>
+
+I'm a Computer Science Engineering student focused on building practical software
+and improving the engineering fundamentals behind it.
+
+I enjoy working across the stack instead of limiting myself to one layer.
 
 ```text
-idea
- ↓
-requirements
- ↓
-architecture
- ↓
-interface
- ↓
-API
- ↓
-database
- ↓
-authentication
- ↓
-integrations
- ↓
-deployment
- ↓
-iteration
+                   PROBLEM
+                      │
+                      ▼
+                REQUIREMENTS
+                      │
+                      ▼
+                  DESIGN
+                      │
+        ┌─────────────┼─────────────┐
+        ▼             ▼             ▼
+    FRONTEND        BACKEND       DATA
+        │             │             │
+        └─────────────┼─────────────┘
+                      │
+                      ▼
+                INTEGRATIONS
+                      │
+                      ▼
+                AUTH / SECURITY
+                      │
+                      ▼
+                  TESTING
+                      │
+                      ▼
+                 DEPLOYMENT
+                      │
+                      ▼
+                  ITERATION
